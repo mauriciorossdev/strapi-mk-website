@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "descriptions",
+  "info": {
+    "singularName": "description",
+    "pluralName": "descriptions",
+    "displayName": "description"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}
